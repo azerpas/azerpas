@@ -1,5 +1,9 @@
-### Hi there 👋
+![aboutme](https://user-images.githubusercontent.com/19282069/95012736-4d9e7700-063b-11eb-844c-0e1ae4613456.png)
 
+<h1 align='center'> Welcome! :wave:</h1>
+<p align='center'>
+I'm Anthony, a French engineering student at EFREI Paris, working on cool solutions at <a href="https://twitter.com/paname_io/">@paname_io 🤖</a> and <a href="https://www.linkedin.com/company/31563209/">Symbiose SAS 💼</a>. 
+</p>
 <!--
 **azerpas/azerpas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
