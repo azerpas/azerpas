@@ -2,7 +2,7 @@
 
 <h1 align='center'> Welcome! :wave:</h1>
 <p align='center'>
-I'm Anthony, a French engineering student at EFREI Paris, working on cool solutions at <a href="https://twitter.com/paname_io/" target="_blank" rel="noopener noreferrer">@paname_io 🤖</a> and <a href="https://www.linkedin.com/company/31563209/" target="_blank" rel="noopener noreferrer">Symbiose SAS 💼</a>. 
+I'm Anthony, a French engineering student at EFREI Paris, working on cool solutions at Fractif ⛓️ and <a href="https://www.linkedin.com/company/31563209/" target="_blank" rel="noopener noreferrer">Symbiose SAS 💼</a>. 
 </p>
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=azerpas&count_private=true&theme=midnight-purple&show_icons=true" alt="Azerpas' Github Stats"/>
@@ -13,10 +13,9 @@ I'm Anthony, a French engineering student at EFREI Paris, working on cool soluti
 ## 🔭 Working on
 <ul>
   <li>
-    <p><img width="250" align='right' src="https://pbs.twimg.com/media/EhybtWLXgAASUZQ?format=jpg&name=medium"/></p>
-    <h3><b>paname.io</b></h3>
-    <a href="https://paname.io" target="_blank" rel="noopener noreferrer">Website</a> • <a href="https://twitter.com/paname_io/" target="_blank" rel="noopener noreferrer">Twitter</a>
-    <p>Creation of a cloud platform where users can subscribe to limited edition sneakers. Our bots will then register them to different draws set-up by Nike and their retailers.</p>
+    <h3><b>Fractif</b></h3>
+    <img width="250" align='right' alt="fractif website" src="https://user-images.githubusercontent.com/19282069/206268371-300edf6e-7d32-49fd-af64-920f71996e91.png">
+    <p> Fractif is a web app that let you invest in physical luxury assets through ERC1155 tokens </p>
   </li>
   <li>
     <h3><b>Symbiose SAS</b></h3>
