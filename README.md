@@ -26,6 +26,13 @@ I'm Anthony, a French engineering student at EFREI Paris, working on cool soluti
 
 --- 
 
+## ✏️ Some of my writings
+All of my writings are available on my blog https://blog.azerpas.com, but here are some of my favorites:
+- [Encrypt and decrypt data with the "Orion" library in Rust](https://blog.azerpas.com/posts/rust-encryption-1)
+- [Create a fair NFT mint on Ethereum with Solidity and NextJS #1: Introduction & Web setup](https://blog.azerpas.com/posts/fair-mint-1)
+
+---
+
 ## 📫 How to reach me
 <p align='center'>
   <a href="mailto:anthony@smbs.io">anthony@smbs.io</a>
