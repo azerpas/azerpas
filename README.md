@@ -2,7 +2,7 @@
 
 <h1 align='center'> Welcome! :wave:</h1>
 <p align='center'>
-I'm Anthony, a French engineering student at EFREI Paris, working on cool solutions at Fractif ⛓️ and <a href="https://www.linkedin.com/company/31563209/" target="_blank" rel="noopener noreferrer">Symbiose SAS 💼</a>. 
+I'm Anthony, a French engineering student at EFREI Paris, working on cool solutions at Fractif ⛓️ and <a href="https://www.linkedin.com/company/31563209/" target="_blank" rel="noopener noreferrer">Symbiose SAS 💼</a>. Truly passionate about reverse engineering, decentralized P2P networks, design and photography.
 </p>
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=azerpas&count_private=true&theme=midnight-purple&show_icons=true" alt="Azerpas' Github Stats"/>
