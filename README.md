@@ -1,8 +1,8 @@
-![aboutme](https://user-images.githubusercontent.com/19282069/95012736-4d9e7700-063b-11eb-844c-0e1ae4613456.png)
+![aboutme](https://user-images.githubusercontent.com/19282069/225295852-e401c8a5-4968-46cb-8da7-ca661f5e38c9.png)
 
 <h1 align='center'> Welcome! :wave:</h1>
 <p align='center'>
-I'm Anthony, a French engineering student at EFREI Paris, working on cool solutions at Fractif ⛓️ and <a href="https://www.linkedin.com/company/31563209/" target="_blank" rel="noopener noreferrer">Symbiose SAS 💼</a>. Truly passionate about reverse engineering, decentralized P2P networks, design and photography.
+I'm Anthony, a French engineer working on cool solutions at Bosch and <a href="https://www.linkedin.com/company/31563209/" target="_blank" rel="noopener noreferrer">Symbiose SAS 💼</a>, ex-Sony. Truly passionate about reverse engineering, decentralized P2P networks, design and photography.
 </p>
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=azerpas&count_private=true&theme=midnight-purple&show_icons=true" alt="Azerpas' Github Stats"/>
