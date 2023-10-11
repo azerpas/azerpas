@@ -5,18 +5,13 @@
 I'm Anthony, a French engineer working on cool solutions at Bosch and <a href="https://www.linkedin.com/company/31563209/" target="_blank" rel="noopener noreferrer">Symbiose SAS 💼</a>, ex-Sony. Truly passionate about reverse engineering, decentralized P2P networks, design and photography.
 </p>
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=azerpas&count_private=true&theme=midnight-purple&show_icons=true" alt="Azerpas' Github Stats"/>
+  <img src="https://github-contribution-stats.vercel.app/api/?username=azerpas" alt="Azerpas' Github Stats"/>
 </p>
 
 ---
 
 ## 🔭 Working on
 <ul>
-  <li>
-    <h3><b>Fractif</b></h3>
-    <img width="250" align='right' alt="fractif website" src="https://user-images.githubusercontent.com/19282069/206268371-300edf6e-7d32-49fd-af64-920f71996e91.png">
-    <p> Fractif is a web app that let you invest in physical luxury assets through ERC1155 tokens </p>
-  </li>
   <li>
     <h3><b>Symbiose SAS</b></h3>
     <a href="http://smbs.io" target="_blank" rel="noopener noreferrer">Website</a> • <a href="https://www.linkedin.com/company/31563209/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
