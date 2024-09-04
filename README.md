@@ -2,7 +2,7 @@
 
 <h1 align='center'> Welcome! :wave:</h1>
 <p align='center'>
-I'm Anthony, a French engineer working on cool solutions at Bosch and <a href="https://www.linkedin.com/company/31563209/" target="_blank" rel="noopener noreferrer">Symbiose SAS 💼</a>, ex-Sony. Truly passionate about reverse engineering, decentralized P2P networks, design and photography.
+I'm Anthony, a French engineer working on cool solutions at DataDome. Truly passionate about reverse engineering, decentralized P2P networks, design and photography.
 </p>
 <p align='center'>
   <img src="https://github-contribution-stats.vercel.app/api/?username=azerpas" alt="Azerpas' Github Stats"/>
@@ -13,9 +13,9 @@ I'm Anthony, a French engineer working on cool solutions at Bosch and <a href="h
 ## 🔭 Working on
 <ul>
   <li>
-    <h3><b>Symbiose SAS</b></h3>
-    <a href="http://smbs.io" target="_blank" rel="noopener noreferrer">Website</a> • <a href="https://www.linkedin.com/company/31563209/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-    <p>Co-creation of a web agency. Our team develops applications, responsive websites, interfaces, portfolio and design for artists and companies.</p>
+    <h3><b>DataDome</b></h3>
+    <a href="https://datadome.co" target="_blank" rel="noopener noreferrer">Website</a> • <a href="https://www.linkedin.com/company/datadome/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+    <p>Blocking bad bots at scale</p>
   </li>
 </ul> 
 
